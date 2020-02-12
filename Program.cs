@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace C_Sharp_Exercises____4
+namespace C_Sharp_Exercises_4
 {
     class Program
     {
